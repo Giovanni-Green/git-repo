@@ -6,4 +6,4 @@ hello
 privet
 >>>>>>> master
 
-hello dog
+hello dog=-==-=
