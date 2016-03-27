@@ -6,5 +6,5 @@ print("Hello everybody!")--
 
 hello dog=-==-=
 ======
->>>>>>> master
+print 22
 
