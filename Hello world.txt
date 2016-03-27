@@ -1,9 +1,6 @@
 print("Hello world!")__
 print("Hello everybody!")--
 <<<<<<< HEAD
-hello--
-=======
-privet==
->>>>>>> master
+jhkhjk
 
 hello dog=-==-=
